@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nekko-chat/static/css/main.e6c13ad2.css",
-    "main.js": "/nekko-chat/static/js/main.3270c1fa.js",
+    "main.js": "/nekko-chat/static/js/main.2e8b0471.js",
     "static/js/453.4988a6ee.chunk.js": "/nekko-chat/static/js/453.4988a6ee.chunk.js",
     "index.html": "/nekko-chat/index.html",
     "main.e6c13ad2.css.map": "/nekko-chat/static/css/main.e6c13ad2.css.map",
-    "main.3270c1fa.js.map": "/nekko-chat/static/js/main.3270c1fa.js.map",
+    "main.2e8b0471.js.map": "/nekko-chat/static/js/main.2e8b0471.js.map",
     "453.4988a6ee.chunk.js.map": "/nekko-chat/static/js/453.4988a6ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3270c1fa.js"
+    "static/js/main.2e8b0471.js"
   ]
 }
